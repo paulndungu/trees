@@ -1,0 +1,71 @@
+body{
+    background-color: darkblue;
+}
+.h1{
+    color: teal;
+    font-family: 'Pacifico', cursive;
+}
+.def{
+    color: blueviolet;
+    font-family: 'Shrikhand', cursive;
+}
+.p1{
+    color: yellow;
+    font-family: 'Eater', cursive;
+}
+.over{
+    color: aquamarine;
+    font-family: 'Shrikhand', cursive;
+}
+.p2{
+    color: cadetblue;
+    font-family: 'Eater', cursive;
+}
+.distr{
+    color: aliceblue;
+    font-family: 'Shrikhand', cursive;
+}
+.p3{
+    color: seagreen;
+    font-family: 'Eater', cursive;
+}
+.rot{
+    color: chartreuse;
+    font-family: 'Shrikhand', cursive;
+}
+.p4{
+    color: darkgrey;
+    font-family: 'Eater', cursive;
+}
+.tr{
+    color: crimson;
+    font-family: 'Shrikhand', cursive;
+}
+.p5{
+    color: darkgoldenrod;
+    font-family: 'Eater', cursive;
+}
+.leaf{
+    color: forestgreen;
+    font-family: 'Shrikhand', cursive;
+}
+.p6{
+    color: dodgerblue;
+    font-family: 'Eater', cursive;
+}
+.usu{
+    color: fuchsia;
+    font-family: 'Shrikhand', cursive;
+}
+.p7{
+    color: sandybrown;
+    font-family: 'Eater', cursive;
+}
+.p8{
+    color: firebrick;
+    font-family: 'Pacifico', cursive;
+}
+.p9{
+    color: gold;
+    font-family: 'Eater', cursive;
+}
